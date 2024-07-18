@@ -1,5 +1,5 @@
-# Saucedemo Front QA
-Pruebas de front (UI)
+# Modak web Front QA
+Pruebas de front básico (UI)
 
 ## Requisitos
  - python >= 3.8
@@ -15,7 +15,7 @@ Pruebas de front (UI)
 ## Instalación
  - Instalar git bash para hacer uso de git
  - Instalar Pycharm desde el sitio oficial
- - Clonarse el repositorio `git clone https://github.com/oneksson/saucedemo`.
+ - Clonarse el repositorio `git clone https://github.com/oneksson/modakChallenge.git`.
  - Crear el ambiente virtual ejecutando: `python -m venv env`.
  - Activar su entorno virtual dentro de su proyecto `source env/bin/activate`.
  - Luego de instalar python y pip en caso de no tenerlo instalado, proceder a instalar las dependencias del proyecto dentro de su entorno virtual: `pip instasll -r requirements.txt`.
